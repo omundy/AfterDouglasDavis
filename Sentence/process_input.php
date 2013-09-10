@@ -2,7 +2,7 @@
 
 /**
  *	Process input for "After Douglas Davis"
- *	@info	This script is custom, though it attempts to stay true to original functionality of project
+ *	@info	This script is custom, though it attempts to stay true to original functionality of the project
  *	@author	Owen Mundy
  *	@date	5-Sept-2013
  */
